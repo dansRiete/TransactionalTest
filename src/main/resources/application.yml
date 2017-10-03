@@ -1,0 +1,4 @@
+ffdata.datasource:
+  url: jdbc:postgresql://localhost:5432/fnf
+  username: postgres
+  password: 571564
